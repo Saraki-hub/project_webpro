@@ -6,8 +6,13 @@
     <title>Hi</title>
 </head>
 <body>
+
     <div>
         <input type="text" name="username" />
     </div>
+
+    <h2>a</h2>
+    <div><img src="" alt=""></div>
+    <h1>awdadwd</h1>
 </body>
 </html>
