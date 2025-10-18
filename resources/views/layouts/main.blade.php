@@ -6,6 +6,8 @@
     <title>Hi</title>
 </head>
 <body>
-    
+    <div>
+        <input type="text" name="username" />
+    </div>
 </body>
 </html>
